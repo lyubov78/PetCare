@@ -1,0 +1,34 @@
+[
+    {
+        "model": "pet_base.owner",
+        "pk": 1,
+        "fields": {
+            "name": "Иванов Иван Иванович",
+            "phone": "+77495739572"
+        }
+    },
+    {
+        "model": "pet_base.owner",
+        "pk": 2,
+        "fields": {
+            "name": "Петрова Анна Сергеевна",
+            "phone": "+78564085720"
+        }
+    },
+  {
+        "model": "pet_base.owner",
+        "pk": 3,
+        "fields": {
+            "name": "Сергеев Андрей Дмитриевич",
+            "phone": "+79967322655"
+        }
+    },
+  {
+        "model": "pet_base.owner",
+        "pk": 4,
+        "fields": {
+            "name": "Данилова Юлия Егоровна",
+            "phone": "+78760531237"
+        }
+    }
+]

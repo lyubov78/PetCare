@@ -1,0 +1,121 @@
+[
+    {
+        "model": "pet_base.pet",
+        "pk": 1,
+        "fields": {
+            "name": "Барсик",
+            "animal_type": 2,
+            "breed": "Сиамская",
+            "gender": "M",
+            "age": 3,
+            "weight": 4.5,
+            "vaccinations": "Прививка от бешенства, 2022",
+            "owner": 1,
+            "notes": "Очень спокойный кот",
+            "created_at": "2024-11-25T12:00:00Z",
+            "updated_at": "2024-11-25T12:00:00Z"
+        }
+    },
+    {
+        "model": "pet_base.pet",
+        "pk": 2,
+        "fields": {
+            "name": "Шарик",
+            "animal_type": 1,
+            "breed": "Лабрадор",
+            "gender": "M",
+            "age": 5,
+            "weight": 30,
+            "vaccinations": "Прививка от бешенства, 2023",
+            "owner": 1,
+            "notes": "Очень активный и дружелюбный",
+            "created_at": "2024-11-25T12:00:00Z",
+            "updated_at": "2024-11-25T12:00:00Z"
+        }
+    },
+    {
+        "model": "pet_base.pet",
+        "pk": 3,
+        "fields": {
+            "name": "Бобик",
+            "animal_type": 1,
+            "breed": "Дворняга",
+            "gender": "M",
+            "age": 2,
+            "weight": 10,
+            "vaccinations": "Прививка от бешенства, 2023",
+            "owner": 2,
+            "notes": "Любит детей",
+            "created_at": "2024-11-25T12:00:00Z",
+            "updated_at": "2024-11-25T12:00:00Z"
+        }
+    },
+    {
+        "model": "pet_base.pet",
+        "pk": 4,
+        "fields": {
+            "name": "Мурка",
+            "animal_type": 2,
+            "breed": "Русская голубая",
+            "gender": "F",
+            "age": 4,
+            "weight": 4.0,
+            "vaccinations": "Прививка от бешенства, 2021",
+            "owner": 4,
+            "notes": "Ласковая, но пугливая",
+            "created_at": "2024-11-25T12:00:00Z",
+            "updated_at": "2024-11-25T12:00:00Z"
+        }
+    },
+    {
+        "model": "pet_base.pet",
+        "pk": 5,
+        "fields": {
+            "name": "Хома",
+            "animal_type": 3,
+            "breed": "Джунгарский",
+            "gender": "M",
+            "age": 1,
+            "weight": 0.1,
+            "vaccinations": "Нет",
+            "owner": 1,
+            "notes": "Очень активный ночью",
+            "created_at": "2024-11-25T12:00:00Z",
+            "updated_at": "2024-11-25T12:00:00Z"
+        }
+    },
+    {
+        "model": "pet_base.pet",
+        "pk": 6,
+        "fields": {
+            "name": "Снежок",
+            "animal_type": 1,
+            "breed": "Самоед",
+            "gender": "F",
+            "age": 3,
+            "weight": 20,
+            "vaccinations": "Прививка от бешенства, 2022",
+            "owner": 2,
+            "notes": "Очень пушистая",
+            "created_at": "2024-11-25T12:00:00Z",
+            "updated_at": "2024-11-25T12:00:00Z"
+        }
+    },
+    {
+        "model": "pet_base.pet",
+        "pk": 7,
+        "fields": {
+            "name": "Малыш",
+            "animal_type": 3,
+            "breed": "Сирийский",
+            "gender": "M",
+            "age": 2,
+            "weight": 0.15,
+            "vaccinations": "Нет",
+            "owner": 2,
+            "notes": "Очень любит бегать в колесе",
+            "created_at": "2024-11-25T12:00:00Z",
+            "updated_at": "2024-11-25T12:00:00Z"
+        }
+    }
+]
